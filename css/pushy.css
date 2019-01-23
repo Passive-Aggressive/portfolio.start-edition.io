@@ -37,10 +37,26 @@
 .pushy ul {
 	display: grid;
 	grid-template-columns: 1fr auto;
+	grid-row-gap: 10px;
+	grid-column-gap: 10px;
+	padding-left: 10px;
 }
 .pushy li {
 	font-size: 14px;
-	font-weight: 800
+	font-weight: 800;
+	border: 2px solid #c1ad95;
+	background-color: #c1ad95;
+	border-radius: 8px;
+	color: 362f2d;		
+}
+.pushy li a {
+	color: #362f2d;
+}
+.pushy #cart {
+margin-left: 35%;
+}
+.pushy #search {
+margin-left: 25%;
 }
 .pushy-content {
   visibility: hidden;
