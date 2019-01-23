@@ -211,6 +211,9 @@ nav ul li {
 	color: white;
 	font-weight: 900;
 	background-color: #362f2d;
+	padding: 16px 44px;
+	transition: 0.7s;
+	
 	
 }
 
@@ -1029,6 +1032,11 @@ text-align: center;
 .p-button:hover {
 	text-decoration: none;
 	color: white;
+	font-weight: 900;
+	background-color: #362f2d;
+	padding: 16px 44px;
+	transition: 0.7s;
+	
 }
 
 
