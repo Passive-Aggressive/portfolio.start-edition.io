@@ -38,10 +38,6 @@ header {
 
 /*====NAV===*/
 
-.advantages  path {
-	fill: ;
-}
-
 .advantages svg:hover path {
 	fill: #d3c1ad;
 }
@@ -238,8 +234,8 @@ nav ul li {
 
 }
 
-.still-container-box01 a:hover path {
-	fill: #d3c1ad;
+.still-container-box01 a:hover path    {
+	fill: #998675;
 
 }
 
